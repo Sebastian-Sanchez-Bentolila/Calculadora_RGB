@@ -1,6 +1,6 @@
 # Calculadora RGB
 
-![Image text] (https://github.com/Sebastian-Sanchez-Bentolila/Calculadora_RGB/blob/main/archivos/img/circuloRGB.png)
+![Image text](https://github.com/Sebastian-Sanchez-Bentolila/Calculadora_RGB/blob/main/archivos/img/circuloRGB.png)
 
 Bienvenido/a al repositorio de la Calculadora de Colores RGB. Esta es una herramienta simple que te permite convertir valores de color RGB (Rojo, Verde, Azul) a Hexadecimal y viceversa.
 
