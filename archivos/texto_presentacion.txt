@@ -1,0 +1,20 @@
+Holaa!, que tal? Soy Sebastian Sanchez Bentolila y al momento de
+publicar esta aplicacion (2023) tengo 18. Vivo en Llavallol,
+Provincia de Buenos Aires, Argentina. Hice mis estudios secundarios 
+en el ETIG, y fue en cuarto curso donde aprendi en informatica los
+aspectos basicos de la programacion en C. Luego, quise seguir 
+estudiando mas (ya que me facino el tema), y comence con C++. Pero 
+por temas de dificultad, me desmotive y estuve un tiempo largo sin 
+tocar el tema. Por suerte, en el verano antes de comenzar ultimo 
+curso decidi aprender Python. Y fue sin duda, un viaje de ida. Eso, 
+me llevo a aprender muchas cosas y a siempre tratar de estar al dia. 
+
+Actualmente estoy cursando el segundo cuatrimestre de la carrera de 
+Ciencia de Datos en la UNAB.
+
+Gracias!, y espero que te haya gustado esta aplicacion. 
+
+Si quieres ver o descargar mis proyectos, te dejo mi GitHub: 
+https://github.com/Sebastian-Sanchez-Bentolila
+
+Intagram : @sebas.code_crypto

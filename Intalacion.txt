@@ -1,0 +1,10 @@
+Pasos para la intalación del sofware 'Calculadora_RGB':
+
+1. Tener python en la versión 3.10.4 o superior, en caso de 
+no contar con este. Descargalo aquí: https://www.python.org/downloads/
+
+2. Intalar 'SETUP.exe'. (Si el antivirus no te deja, desactivarlo temporalmente y una vez terminado el proceso activarlo). 
+
+3. Por último, crear un enlace directo de 'Calculadora_RGB.exe' y ya podrá usarlo libremente.
+
+Sofware exclusivo para window y linux. No compatible con Mac. 
